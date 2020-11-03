@@ -1,5 +1,5 @@
 ## Not Quite Hangman
-Not Quite Hangman is a word game a bit like Hangman. The game contains several packs of 1000 questions. Each question is a phrase that must be guessed by revealing letter tiles one by one. 
+Not Quite Hangman is a word game a bit like Hangman. The game contains three packs of 1000 questions: Movies, Albums and Books. Each question is a title that must be guessed by revealing letter tiles one by one. 
 
 ### Single Player Game
 The aim of the single player game is to score as many points as possible before using up all your coins and lifelines. Wrong letter guesses cost one coin. Once you think you know the phrase you can click the “I know it” button to score points, but after that one wrong guess means Game Over.
