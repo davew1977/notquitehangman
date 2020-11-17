@@ -21,7 +21,7 @@
         <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
 
-        <p>{{ site.description | default: site.github.project_tagline }}</p>
+        <p>{{ title | site.description | default: site.github.project_tagline }}</p>
 
         <a style="padding: 16px" href="https://apps.apple.com/us/app/not-quite-hangman/id1538063923">
             <img width="235px" src="/assets/images/download_on_appstore.svg" alt="ios app store"/>
