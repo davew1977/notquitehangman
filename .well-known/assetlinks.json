@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.notquitehangman",
+    "sha256_cert_fingerprints":
+    ["E9:86:C2:97:CB:09:B4:8F:3C:DC:66:90:4B:D8:75:3C:AB:CA:B8:C6:B8:46:49:B2:A5:F2:AF:2E:B1:9F:AB:42"]
+  }
+}]
