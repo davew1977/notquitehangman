@@ -2,3 +2,4 @@ theme: jekyll-theme-minimal
 logo: assets/images/icon.png
 title: "Not Quite Hangman"
 description: "Information Site for the word game app Not Quite Hangman"
+include: [.well-known/assetlinks.json]
