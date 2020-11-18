@@ -4,7 +4,7 @@
         "details": [
             {
                 "appID": "GM6Y87GLHZ.com.webatron.notquitehangman",
-                "paths": [ "/join-match"]
+                "paths": [ "/join-match", "/player-finished"]
             }
         ]
     }
