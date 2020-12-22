@@ -6,6 +6,9 @@ The aim of the single player game is to score as many points as possible before 
 
 ### Multiplayer Game
 The multiplayer game is simpler. Here you choose how many questions you would like in the match. For each question you reveal tiles one by one until you know it, ideally before your opponent(s) do. In this game there are no coins, bonuses or lifelines.
+                        
+### Inspiration
+All the answers come from top lists of movies, books or albums, so you can use the app provide inspiration for something to watch, read or listen to.
 
 #### Technical Note
 With the multiplayer game, the players' apps are not really connected to each other. Players would typically be co-located each playing on their own device. One player sets up the match, which will be labelled with a unique match code. Other players can then “join” the match by entering the code. The code encodes the game options (question pack and number of questions) as well as a common seed for the random number generator. This way all players joining the same match will receive the exact same questions and will have the tiles revealed in the same order.
