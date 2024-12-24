@@ -3,3 +3,4 @@ logo: assets/images/icon.png
 title: "Not Quite Hangman"
 description: "The nerdy wordy game that can help you find something to watch, listen to or read"
 include: [".well-known"]
+stupidapp_logo: assets/images/stupidapp.jpg
